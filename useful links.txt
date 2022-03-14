@@ -1,0 +1,19 @@
+Linux Basic Commands -- https://www.guru99.com/must-know-linux-commands.html
+
+Ansible --- https://www.udemy.com/course/learn-ansible/learn/lecture/7040832?start=0#overview
+
+Kubernetes ---- https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+
+Teeraform --- https://www.udemy.com/course/terraform-for-the-absolute-beginners/learn/lecture/27884600?start=15#overview
+
+jenkins ---- https://www.udemy.com/course/jenkins-from-zero-to-hero/learn/lecture/12925870?start=75#overview
+
+https://dev.to/
+
+https://rtfm.co.ua/en/
+
+https://itnext.io/
+
+https://medium.com/tag/kubernetes
+
+https://devops.com/
